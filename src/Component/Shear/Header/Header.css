@@ -1,0 +1,16 @@
+.header {
+  font-family: "Poppins", sans-serif;
+}
+.link {
+  text-decoration: none;
+  margin-left: 2rem;
+  font-size: 17px;
+  color: rgb(255, 255, 255);
+  transition: all 0.5s;
+}
+.link.nav-link {
+  color: rgb(255, 255, 255);
+}
+.link:hover {
+  color: rgb(241, 9, 9);
+}
