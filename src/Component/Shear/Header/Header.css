@@ -8,9 +8,3 @@
   color: rgb(255, 255, 255);
   transition: all 0.5s;
 }
-.link.nav-link {
-  color: rgb(255, 255, 255);
-}
-.link:hover {
-  color: rgb(241, 9, 9);
-}
