@@ -10,7 +10,7 @@ const OurSpeciality = () => {
   }, []);
   return (
     <section className="py-5 mt-5">
-      <div className="container">
+      <div className="container mx-auto">
         <h2 className="text-muted text-center fw-bold py-4">
           Our <span className="text-danger">Speciality</span>
         </h2>

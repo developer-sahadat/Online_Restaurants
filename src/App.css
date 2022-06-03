@@ -15,7 +15,8 @@ h1 {
 .header-tag-color {
   color: #333;
 }
-.fa-star {
+.fa-star,
+.fa-star-half-stroke {
   padding: 0 2px;
   color: #ffda3f;
 }

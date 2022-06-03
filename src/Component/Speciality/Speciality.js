@@ -1,9 +1,8 @@
 import React from "react";
-import "./Speciality.css";
 
 const Speciality = ({ speciality }) => {
   const { description, img, icons, title } = speciality;
-  console.log(speciality);
+
   return (
     <div className="col-md-6 col-lg-4 col-sm-6 ">
       <div className="shadow border border-dark our-speciality overflow-hidden position-relative">

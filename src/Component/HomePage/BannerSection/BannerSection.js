@@ -5,9 +5,9 @@ import banner from "../../../Assets/images/home-img.png";
 const BannerSection = () => {
   return (
     <section className="mt-5 banner-section" id="home">
-      <div className="container">
+      <div className="container mx-auto">
         <div className="row d-flex justify-content-center align-items-center g-4">
-          <div className="col-md-6 order-md-1 order-sm-2 order-2">
+          <div className="col-md-6 text-md-start text-center order-md-1 order-sm-2 order-2">
             <div>
               <h1 className="display-5 fw-bold pb-3">Food Made With Love</h1>
               <p className="text-muted">
