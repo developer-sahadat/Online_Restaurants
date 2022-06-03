@@ -9,9 +9,9 @@ const Header = () => {
       <Navbar bg="dark" className="py-3" variant="dark" expand="lg">
         <Container>
           <Navbar.Brand href="#home">
-            <Link class="navbar-brand text-white" to="/">
+            <Link className="navbar-brand text-white" to="/">
               <span>
-                <i class="fas fa-utensils text-danger"></i> Food
+                <i className="fas fa-utensils text-danger"></i> Food
               </span>
             </Link>
           </Navbar.Brand>

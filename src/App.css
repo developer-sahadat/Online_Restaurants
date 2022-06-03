@@ -15,3 +15,64 @@ h1 {
 .header-tag-color {
   color: #333;
 }
+.fa-star {
+  padding: 0 2px;
+  color: #ffda3f;
+}
+
+/* -- Our Customers Reviews section -- */
+.our-customer-item {
+  background: #333333;
+  border: 0.8rem solid white;
+  border-radius: 10px;
+  box-shadow: 7px 10px 5px rgb(231, 231, 231), -3px -7px 10px rgb(230, 230, 230);
+}
+
+.customer-img img {
+  height: 9rem;
+  width: 9rem;
+  border-radius: 50%;
+  border: 0.8rem solid #fff;
+  margin-top: -8rem;
+  object-fit: cover;
+}
+
+.our-speciality {
+  transition: all 1s;
+  cursor: pointer;
+}
+
+.our-speciality .speciality-img {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  transition: all 0.2s linear;
+}
+
+.our-speciality:hover .speciality-img {
+  top: 0;
+}
+
+.content {
+  transition: all 0.2s linear;
+}
+
+.our-speciality:hover .content {
+  transform: translateY(100%);
+}
+
+.food-gallary {
+  border-radius: 0.25rem;
+}
+
+.gallery-conten {
+  background: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  left: 0;
+  top: 100%;
+  transition: all 0.3s linear;
+}
+
+.food-gallary:hover .gallery-conten {
+  top: 0;
+}

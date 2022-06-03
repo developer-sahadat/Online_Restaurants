@@ -1,0 +1,44 @@
+[
+  {
+    "img": "https://i.ibb.co/1K2MQ2H/s-img-1.jpg",
+    "title": "tasty burger",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.",
+    "icons": "https://i.ibb.co/9y2myf3/s-1.png",
+    "_id": "1"
+  },
+  {
+    "img": "https://i.ibb.co/wK3kVyL/s-img-2.jpg",
+    "title": "tasty pizza",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.",
+    "icons": "https://i.ibb.co/QFLkj8W/s-2.png",
+    "_id": "2"
+  },
+  {
+    "img": "https://i.ibb.co/jL5g75v/s-img-3.jpg",
+    "title": "cold ice-cream",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.",
+    "icons": "https://i.ibb.co/58bqxYH/s-3.png",
+    "_id": "3"
+  },
+  {
+    "img": "https://i.ibb.co/JqhpkgV/s-img-4.jpg",
+    "title": "cold drinks",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.",
+    "icons": "https://i.ibb.co/3yDDSqs/s-4.png",
+    "_id": "4"
+  },
+  {
+    "img": "https://i.ibb.co/6nJg258/s-img-5.jpg",
+    "title": "tasty sweets",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.",
+    "icons": "https://i.ibb.co/72qBXzH/s-5.png",
+    "_id": "5"
+  },
+  {
+    "img": "https://i.ibb.co/zFSLgPf/s-img-6.jpg",
+    "title": "healty breakfast",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda inventore neque amet ipsa tenetur voluptates aperiam tempore libero labore aut.",
+    "icons": "https://i.ibb.co/yVjLVmV/s-6.png",
+    "_id": "6"
+  }
+]
